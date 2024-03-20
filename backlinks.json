@@ -1,1201 +1,2003 @@
 {
   "directories": [
     {
-      "url": "producthunt.com"
+      "name": "Product Hunt",
+      "url": "producthunt.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "betalist.com"
+      "name": "BetaList",
+      "url": "betalist.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "viesearch.com"
+      "name": "Viesearch",
+      "url": "viesearch.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "prolinkdirectory.com"
+      "name": "ProLinkDirectory",
+      "url": "prolinkdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "cipinet.com"
+      "url": "cipinet.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hdvconnect.com"
+      "url": "hdvconnect.com",
+      "status": "broken",
+      "notes": ""
     },
     {
-      "url": "alistdirectory.com"
+      "url": "alistdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "tsection.com"
+      "url": "tsection.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "1websdirectory.com"
+      "url": "1websdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "9sites.net"
+      "url": "9sites.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "highrankdirectory.com"
+      "url": "highrankdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "sonicrun.com"
+      "url": "sonicrun.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "elitesitesdirectory.com"
+      "url": "elitesitesdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "sitepromotiondirectory.com"
+      "url": "sitepromotiondirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "promotebusinessdirectory.com"
+      "url": "promotebusinessdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "gainweb.org"
+      "url": "gainweb.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "247webdirectory.com"
+      "url": "247webdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "happal.com"
+      "url": "happal.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "siteswebdirectory.com"
+      "url": "siteswebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "w3catalog.com"
+      "url": "w3catalog.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "acewebdirectory.com"
+      "url": "acewebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory-free.com"
+      "url": "directory-free.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "txtlinks.com"
+      "url": "txtlinks.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "eslovar.com"
+      "url": "eslovar.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "addbusiness.net"
+      "url": "addbusiness.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dizila.com"
+      "url": "dizila.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "momsdirectory.net"
+      "url": "momsdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bari.biz"
+      "url": "bari.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "worldweb-directory.com"
+      "url": "worldweb-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "flognaw.com"
+      "url": "flognaw.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "onemilliondirectory.com"
+      "url": "onemilliondirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "digabusiness.com"
+      "url": "digabusiness.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "livepopular.com"
+      "url": "livepopular.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ontoplist.com"
+      "url": "ontoplist.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "submissionwebdirectory.com"
+      "url": "submissionwebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "marketinginternetdirectory.com"
+      "url": "marketinginternetdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryvault.com"
+      "url": "directoryvault.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "theseoking.com"
+      "url": "theseoking.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryseo.biz"
+      "url": "directoryseo.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freeprwebdirectory.com"
+      "url": "freeprwebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "qualityinternetdirectory.com"
+      "url": "qualityinternetdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freeinternetwebdirectory.com"
+      "url": "freeinternetwebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "marketingwebdirectory.com"
+      "url": "marketingwebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "starsdirectory.com.ar"
+      "url": "starsdirectory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seofriendly.com.ar"
+      "url": "seofriendly.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "24directory.com.ar"
+      "url": "24directory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "vbdirectory.info"
+      "url": "vbdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "firstlinkonline.info"
+      "url": "firstlinkonline.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "mywebdirectory.com.ar"
+      "url": "mywebdirectory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ncdirectory.com.ar"
+      "url": "ncdirectory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "intercambioseo.com"
+      "url": "intercambioseo.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "corpdirectory.info"
+      "url": "corpdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ukdirectory.com.ar"
+      "url": "ukdirectory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "simpledirectory.com.ar"
+      "url": "simpledirectory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "weblister.com.ar"
+      "url": "weblister.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "vipdirectory.com.ar"
+      "url": "vipdirectory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ocsum.org"
+      "url": "ocsum.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "000directory.com.ar"
+      "url": "000directory.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blpdirectory.info"
+      "url": "blpdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ahmedabad.backlinkpower.com.ar"
+      "url": "ahmedabad.backlinkpower.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "escortlinkdirectory.info"
+      "url": "escortlinkdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "widedir.info"
+      "url": "widedir.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "optimisationdirectory.info"
+      "url": "optimisationdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "khersonrent.com"
+      "url": "khersonrent.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "goaflam.net"
+      "url": "goaflam.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "backlinkbeat.com"
+      "url": "backlinkbeat.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "darkdir.info"
+      "url": "darkdir.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryempire.info"
+      "url": "directoryempire.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "pune.freelinkdirectory.info"
+      "url": "pune.freelinkdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directorycritic.info"
+      "url": "directorycritic.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "golddirectory.info"
+      "url": "golddirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hostingtres.neobacklinks.com"
+      "url": "hostingtres.neobacklinks.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "india.neobacklinks.com"
+      "url": "india.neobacklinks.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "jasminedirectory.com"
+      "url": "jasminedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hostingtres.com.ar"
+      "url": "hostingtres.com.ar",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "newfreedirectory.com.ar.neobacklinks.net"
+      "url": "newfreedirectory.com.ar.neobacklinks.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "gcast.info"
+      "url": "gcast.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "avivadirectory.com"
+      "url": "avivadirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "plazoo.com"
+      "url": "plazoo.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "operationuplink.org"
+      "url": "operationuplink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hotvsnot.com"
+      "url": "hotvsnot.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "01webdirectory.com"
+      "url": "01webdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bloghints.com"
+      "url": "bloghints.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "topsiteswebdirectory.com"
+      "url": "topsiteswebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "somuch.com"
+      "url": "somuch.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "1abc.org"
+      "url": "1abc.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "info-listings.com"
+      "url": "info-listings.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogdirs.com"
+      "url": "blogdirs.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linksgiving.com"
+      "url": "linksgiving.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "trafficdirectory.org"
+      "url": "trafficdirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "justdirectory.org"
+      "url": "justdirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "usalistingdirectory.com"
+      "url": "usalistingdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "efdir.com"
+      "url": "efdir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ellysdirectory.com"
+      "url": "ellysdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "wldirectory.com"
+      "url": "wldirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "pr8directory.com"
+      "url": "pr8directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ecobluedirectory.com"
+      "url": "ecobluedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "britainbusinessdirectory.com"
+      "url": "britainbusinessdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "onecooldir.com"
+      "url": "onecooldir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "greenydirectory.com"
+      "url": "greenydirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ezistreet.com"
+      "url": "ezistreet.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "allfreethings.com"
+      "url": "allfreethings.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "sevenseek.com"
+      "url": "sevenseek.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "colorblossomdirectory.com"
+      "url": "colorblossomdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "morefunz.com"
+      "url": "morefunz.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "a2place.com"
+      "url": "a2place.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "a1webdirectory.org"
+      "url": "a1webdirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "weboworld.com"
+      "url": "weboworld.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "gmawebdirectory.com"
+      "url": "gmawebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "canadawebdir.com"
+      "url": "canadawebdir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryws.com"
+      "url": "directoryws.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "rapidenetwork.eu"
+      "url": "rapidenetwork.eu",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bluebook-directory.com"
+      "url": "bluebook-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dicedirectory.com"
+      "url": "dicedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bedwan.com"
+      "url": "bedwan.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "picktu.com"
+      "url": "picktu.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkspurt.com"
+      "url": "linkspurt.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkpedia.net"
+      "url": "linkpedia.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "taurusdirectory.com"
+      "url": "taurusdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bizz-directory.com"
+      "url": "bizz-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ranaf.com"
+      "url": "ranaf.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "celestialdirectory.com"
+      "url": "celestialdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blackgreendirectory.com"
+      "url": "blackgreendirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bluesparkledirectory.com"
+      "url": "bluesparkledirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "cleangreendirectory.com"
+      "url": "cleangreendirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "expansiondirectory.com"
+      "url": "expansiondirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "fruity-directory.com"
+      "url": "fruity-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "fivestarscenter.com"
+      "url": "fivestarscenter.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "traveltourismdirectory.info"
+      "url": "traveltourismdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dracodirectory.com"
+      "url": "dracodirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "businessfreedirectory.com"
+      "url": "businessfreedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hitwebdirectory.com"
+      "url": "hitwebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "10directory.com"
+      "url": "10directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "earthlydirectory.com"
+      "url": "earthlydirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "groovy-directory.com"
+      "url": "groovy-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dir.specialistauctions.net"
+      "url": "dir.specialistauctions.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "herlight.com"
+      "url": "herlight.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "postfreedirectory.com"
+      "url": "postfreedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "fat64.net"
+      "url": "fat64.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freeaddurl.org"
+      "url": "freeaddurl.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryfire.com"
+      "url": "directoryfire.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "the-web-directory.co.uk"
+      "url": "the-web-directory.co.uk",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "brownedgedirectory.com"
+      "url": "brownedgedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "coles-directory.com"
+      "url": "coles-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "darkschemedirectory.com"
+      "url": "darkschemedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dbsdirectory.com"
+      "url": "dbsdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "deepbluedirectory.com"
+      "url": "deepbluedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "direct-directory.com"
+      "url": "direct-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "greylinker.com"
+      "url": "greylinker.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "thedailysubmit.com"
+      "url": "thedailysubmit.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webdirectory.co.in"
+      "url": "webdirectory.co.in",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkdir4u.com"
+      "url": "linkdir4u.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "edom.co.uk"
+      "url": "edom.co.uk",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "jewana.com"
+      "url": "jewana.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freetoprankdirectory.com"
+      "url": "freetoprankdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "generalwebdirectory.org"
+      "url": "generalwebdirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "usgeo.org"
+      "url": "usgeo.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "h-log.com"
+      "url": "h-log.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "targetsviews.com"
+      "url": "targetsviews.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seodirectoryonline.org"
+      "url": "seodirectoryonline.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "wlddirectory.com"
+      "url": "wlddirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dirhello.com"
+      "url": "dirhello.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "add-page.com"
+      "url": "add-page.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "yellowlinker.com"
+      "url": "yellowlinker.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "allstatesusadirectory.com"
+      "url": "allstatesusadirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "propellerdir.com"
+      "url": "propellerdir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "urlchief.com"
+      "url": "urlchief.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "leadinglinkdirectory.com"
+      "url": "leadinglinkdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ampledirectory.com"
+      "url": "ampledirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "trafficsimulator.net"
+      "url": "trafficsimulator.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blahoo.net"
+      "url": "blahoo.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "alabamaindex.com"
+      "url": "alabamaindex.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "informationcrawler.com"
+      "url": "informationcrawler.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "piseries.com"
+      "url": "piseries.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "homepageseek.com"
+      "url": "homepageseek.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "mydannyseo.com"
+      "url": "mydannyseo.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "drtest.net"
+      "url": "drtest.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "evolvingcritic.com"
+      "url": "evolvingcritic.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "fearinc.org"
+      "url": "fearinc.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "generalbusinesswebdirectory.com"
+      "url": "generalbusinesswebdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "pr3plus.com"
+      "url": "pr3plus.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "premiumsites.org"
+      "url": "premiumsites.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "allworldgymnastics.org"
+      "url": "allworldgymnastics.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "5submission.com"
+      "url": "5submission.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ananar.com"
+      "url": "ananar.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "holovibes.biz"
+      "url": "holovibes.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "nuclearland.com"
+      "url": "nuclearland.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webdirectoryhealth.com"
+      "url": "webdirectoryhealth.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "thehillel.org"
+      "url": "thehillel.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "cafeatlantico.info"
+      "url": "cafeatlantico.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "callyourcountry.com"
+      "url": "callyourcountry.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "idahoindex.com"
+      "url": "idahoindex.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seowebdir.net"
+      "url": "seowebdir.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "contentclear.org"
+      "url": "contentclear.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "thetortellini.com"
+      "url": "thetortellini.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogsthatfollow.com"
+      "url": "blogsthatfollow.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "pinklinker.com"
+      "url": "pinklinker.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webdirectory1.biz"
+      "url": "webdirectory1.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "tgp-internet.com"
+      "url": "tgp-internet.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "submitdotcom.com"
+      "url": "submitdotcom.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freewebhosting.cc"
+      "url": "freewebhosting.cc",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "alligatordirectory.com"
+      "url": "alligatordirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "abacusseo.com"
+      "url": "abacusseo.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "csubilc.org"
+      "url": "csubilc.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "findsites.net"
+      "url": "findsites.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bobresources.com"
+      "url": "bobresources.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seo-index.com"
+      "url": "seo-index.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "medicalhealthdirectory.net"
+      "url": "medicalhealthdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seoseek.net"
+      "url": "seoseek.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "weddo.info"
+      "url": "weddo.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "pelicandirectory.com"
+      "url": "pelicandirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "magpiedirectory.com"
+      "url": "magpiedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "brightmumbai.com"
+      "url": "brightmumbai.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webappsdirectory.com"
+      "url": "webappsdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "championdirectory.info"
+      "url": "championdirectory.info",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "topsofweb.com"
+      "url": "topsofweb.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "geoall.com"
+      "url": "geoall.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkcentre.com"
+      "url": "linkcentre.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bloggernity.com"
+      "url": "bloggernity.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "exactseek.com"
+      "url": "exactseek.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "alive-directory.com"
+      "url": "alive-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "cybrhome.com"
+      "url": "cybrhome.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "abc-directory.com"
+      "url": "abc-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryworld.net"
+      "url": "directoryworld.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "infotiger.com"
+      "url": "infotiger.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freewebsitedirectory.com"
+      "url": "freewebsitedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "mastermoz.com"
+      "url": "mastermoz.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "upsdirectory.com"
+      "url": "upsdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory6.org"
+      "url": "directory6.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "poordirectory.com"
+      "url": "poordirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ask-directory.com"
+      "url": "ask-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "craigslistdir.org"
+      "url": "craigslistdir.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "one-sublime-directory.com"
+      "url": "one-sublime-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "splut.com"
+      "url": "splut.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "aweblist.org"
+      "url": "aweblist.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "backpagedir.com"
+      "url": "backpagedir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "lemon-directory.com"
+      "url": "lemon-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "facebook-list.com"
+      "url": "facebook-list.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "nonar.com"
+      "url": "nonar.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "target-directory.com"
+      "url": "target-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ukinternetdirectory.net"
+      "url": "ukinternetdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "thalesdirectory.com"
+      "url": "thalesdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dondir.com"
+      "url": "dondir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "busybits.com"
+      "url": "busybits.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "abstractdirectory.net"
+      "url": "abstractdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "addirectory.org"
+      "url": "addirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "handtucher.net"
+      "url": "handtucher.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "usawebsitesdirectory.com"
+      "url": "usawebsitesdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "netinsert.com"
+      "url": "netinsert.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "findelio.com"
+      "url": "findelio.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "addgoodsites.com"
+      "url": "addgoodsites.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory.com.au"
+      "url": "directory.com.au",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "domainnamesseo.com"
+      "url": "domainnamesseo.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "exampledir.com"
+      "url": "exampledir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory.coais.com"
+      "url": "directory.coais.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "skoobe.biz"
+      "url": "skoobe.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "amray.com"
+      "url": "amray.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "afunnydir.com"
+      "url": "afunnydir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "reddit-directory.com"
+      "url": "reddit-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "homedirectory.biz"
+      "url": "homedirectory.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "interesting-dir.com"
+      "url": "interesting-dir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "addurl.nu"
+      "url": "addurl.nu",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "abstractdirectory.com"
+      "url": "abstractdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "pakranks.com"
+      "url": "pakranks.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "illumirate.com"
+      "url": "illumirate.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "acedirectory.org"
+      "url": "acedirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "adbritedirectory.com"
+      "url": "adbritedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "searchdomainhere.com"
+      "url": "searchdomainhere.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkedin-directory.com"
+      "url": "linkedin-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "huludirectory.com"
+      "url": "huludirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "sublimedir.net"
+      "url": "sublimedir.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "vmoptions.com/directory-list.php"
+      "url": "vmoptions.com/directory-list.php",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directorycritic.com/free-directory-list.html"
+      "url": "directorycritic.com/free-directory-list.html",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "9dir.com/free/directories/submission-list"
+      "url": "9dir.com/free/directories/submission-list",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkaddurl.com"
+      "url": "linkaddurl.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "leedlink.com/directory"
+      "url": "leedlink.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "wootic.com/directory"
+      "url": "wootic.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogpair.com/directory"
+      "url": "blogpair.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "geepost.com/directory"
+      "url": "geepost.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "writedig.com/directory"
+      "url": "writedig.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bloghint.com/directory"
+      "url": "bloghint.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "lariweb.com/directory"
+      "url": "lariweb.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "winzerweb.com/directory"
+      "url": "winzerweb.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogepic.com/directory"
+      "url": "blogepic.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webstips.com/directory"
+      "url": "webstips.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "nancyweb.com/directory"
+      "url": "nancyweb.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "chriswebs.com/directory"
+      "url": "chriswebs.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webslocal.com/directory"
+      "url": "webslocal.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "mattwebs.com/directory"
+      "url": "mattwebs.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "highweber.com/directory"
+      "url": "highweber.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webcroon.com/directory"
+      "url": "webcroon.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "newsdark.com/directory"
+      "url": "newsdark.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "makearticle.com/directory"
+      "url": "makearticle.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "postearticle.com/directory"
+      "url": "postearticle.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "waysbox.com/directory"
+      "url": "waysbox.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "foxwriter.com/directory"
+      "url": "foxwriter.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "onlinewrites.com/directory"
+      "url": "onlinewrites.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hitranks.com/directory"
+      "url": "hitranks.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seoentry.com/directory"
+      "url": "seoentry.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryopen.com/directory"
+      "url": "directoryopen.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "addnewarticle.com/directory"
+      "url": "addnewarticle.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkeddirectory.com/directory"
+      "url": "linkeddirectory.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkasap.com/directory"
+      "url": "linkasap.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "waytess.com/directory"
+      "url": "waytess.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogtarget.com/directory"
+      "url": "blogtarget.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "adpand.com/directory"
+      "url": "adpand.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "websadd.com/directory"
+      "url": "websadd.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogunique.com/directory"
+      "url": "blogunique.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "atwrite.com/directory"
+      "url": "atwrite.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "onlinejess.com/directory"
+      "url": "onlinejess.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bigmach.com/directory"
+      "url": "bigmach.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webburb.com/directory"
+      "url": "webburb.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "linkzoon.com/directory"
+      "url": "linkzoon.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "dilotech.com/directory"
+      "url": "dilotech.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hubyes.com/directory"
+      "url": "hubyes.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "makeproper.com/directory"
+      "url": "makeproper.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "weblikely.com/directory"
+      "url": "weblikely.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "onlinefar.com/directory"
+      "url": "onlinefar.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blogtela.com/directory"
+      "url": "blogtela.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "paratick.com/directory"
+      "url": "paratick.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "weblide.com/directory"
+      "url": "weblide.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "sileweb.com/directory"
+      "url": "sileweb.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "topsrank.com/directory"
+      "url": "topsrank.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "yeshist.com/directory"
+      "url": "yeshist.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "zeedom.com/directory"
+      "url": "zeedom.com/directory",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "australiawebdirectory.net"
+      "url": "australiawebdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "gowwwlist.com"
+      "url": "gowwwlist.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "johnnylist.org"
+      "url": "johnnylist.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "webguiding.net"
+      "url": "webguiding.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "1directory.org"
+      "url": "1directory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "authorizeddir.com"
+      "url": "authorizeddir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "alive2directory.com"
+      "url": "alive2directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "arcticdirectory.com"
+      "url": "arcticdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "aurora-directory.com"
+      "url": "aurora-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "azure-directory.com"
+      "url": "azure-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "blackandbluedirectory.com"
+      "url": "blackandbluedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "fire-directory.com"
+      "url": "fire-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "alivelinks.org"
+      "url": "alivelinks.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "asklink.org"
+      "url": "asklink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "businessfreedirectory.biz"
+      "url": "businessfreedirectory.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "targetlink.biz"
+      "url": "targetlink.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "sublimelink.org"
+      "url": "sublimelink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hotlinks.biz"
+      "url": "hotlinks.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "prolink-directory.com"
+      "url": "prolink-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "alivelink.org"
+      "url": "alivelink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "unique-listing.com"
+      "url": "unique-listing.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "angelsdirectory.com"
+      "url": "angelsdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "relevantdirectories.com"
+      "url": "relevantdirectories.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ifidir.com"
+      "url": "ifidir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "piratedirectory.org"
+      "url": "piratedirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "relateddirectory.org"
+      "url": "relateddirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "relevantdirectory.biz"
+      "url": "relevantdirectory.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "populardirectory.biz"
+      "url": "populardirectory.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory10.biz"
+      "url": "directory10.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory4.org"
+      "url": "directory4.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "populardirectory.org"
+      "url": "populardirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "royaldirectory.biz"
+      "url": "royaldirectory.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory8.org"
+      "url": "directory8.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory10.org"
+      "url": "directory10.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory9.biz"
+      "url": "directory9.biz",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory5.org"
+      "url": "directory5.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directory3.org"
+      "url": "directory3.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directorydirect.net"
+      "url": "directorydirect.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "globaldir.org"
+      "url": "globaldir.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "nicedir.net"
+      "url": "nicedir.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "smartdir.org"
+      "url": "smartdir.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "toptendir.net"
+      "url": "toptendir.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "classdirectory.org"
+      "url": "classdirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directdirectory.org"
+      "url": "directdirectory.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "harddirectory.net"
+      "url": "harddirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "steeldirectory.net"
+      "url": "steeldirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "jet-links.com"
+      "url": "jet-links.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ad-links.org"
+      "url": "ad-links.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freeweblink.org"
+      "url": "freeweblink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ask-dir.org"
+      "url": "ask-dir.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "link-boy.org"
+      "url": "link-boy.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "free-weblink.com"
+      "url": "free-weblink.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "freeseolink.org"
+      "url": "freeseolink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "justlink.org"
+      "url": "justlink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "link-man.org"
+      "url": "link-man.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "smartseolink.org"
+      "url": "smartseolink.org",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bestdirectory4you.com"
+      "url": "bestdirectory4you.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "activdirectory.net"
+      "url": "activdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bedirectory.com"
+      "url": "bedirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "hotdirectory.net"
+      "url": "hotdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "beegdirectory.com"
+      "url": "beegdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "clicksordirectory.com"
+      "url": "clicksordirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "craigslistdirectory.net"
+      "url": "craigslistdirectory.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bing-directory.com"
+      "url": "bing-directory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "aquarius-dir.com"
+      "url": "aquarius-dir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ebay-dir.com"
+      "url": "ebay-dir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "bestbuydir.com"
+      "url": "bestbuydir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "familydir.com"
+      "url": "familydir.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "seooptimizationdirectory.com"
+      "url": "seooptimizationdirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "mediafiredirectlink.com"
+      "url": "mediafiredirectlink.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "directoryanalytic.com"
+      "url": "directoryanalytic.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "ecodir.net"
+      "url": "ecodir.net",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "advancedseodirectory.com"
+      "url": "advancedseodirectory.com",
+      "status": "ok",
+      "notes": ""
     },
     {
-      "url": "apeopledirectory.com"
+      "url": "apeopledirectory.com",
+      "status": "ok",
+      "notes": ""
     }
   ]
 }
