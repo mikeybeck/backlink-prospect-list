@@ -10,7 +10,7 @@
       "name": "BetaList",
       "url": "betalist.com",
       "status": "ok",
-      "notes": ""
+      "notes": "For startups only"
     },
     {
       "name": "Viesearch",
@@ -41,12 +41,12 @@
     },
     {
       "url": "tsection.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
       "url": "1websdirectory.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "url": "elitesitesdirectory.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "url": "happal.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -102,11 +102,11 @@
     {
       "url": "w3catalog.com",
       "status": "ok",
-      "notes": ""
+      "notes": "NOT FREE"
     },
     {
       "url": "acewebdirectory.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -121,12 +121,12 @@
     },
     {
       "url": "eslovar.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
       "url": "addbusiness.net",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -136,12 +136,12 @@
     },
     {
       "url": "momsdirectory.net",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
       "url": "bari.biz",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "url": "flognaw.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
@@ -166,13 +166,13 @@
     },
     {
       "url": "livepopular.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
       "url": "ontoplist.com",
       "status": "ok",
-      "notes": ""
+      "notes": "Requires reciprocal badge on site"
     },
     {
       "url": "submissionwebdirectory.com",
@@ -186,17 +186,17 @@
     },
     {
       "url": "directoryvault.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
       "url": "theseoking.com",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
       "url": "directoryseo.biz",
-      "status": "ok",
+      "status": "broken",
       "notes": ""
     },
     {
