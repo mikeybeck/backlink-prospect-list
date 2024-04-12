@@ -101,7 +101,7 @@
     },
     {
       "url": "w3catalog.com",
-      "status": "ok",
+      "status": "NOT FREE",
       "notes": "NOT FREE"
     },
     {
@@ -1998,6 +1998,586 @@
       "url": "apeopledirectory.com",
       "status": "ok",
       "notes": ""
+    },
+    {
+        "url": "https://www.uneed.best/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.techpluto.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startupstash.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.startups.fyi/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.startupranking.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "http://startupbuffer.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startuptile.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://thestartuppitch.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://stackshare.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://sourceforge.net/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.softwaresuggest.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.sideprojectors.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.serchen.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.saasworthy.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "http://saashub.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.saasprojects.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://tools.robingood.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://resource.fyi/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://publicapis.dev/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.producthunt.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://owwly.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://nocodelist.co/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.nocodedevs.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.microsaasdb.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://lazyhunt.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "http://launchingnext.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://launched.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.killerstartups.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.joinly.xyz/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://feedmystartup.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://1000.tools/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.indiehackers.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.indiehacker.tools/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://news.ycombinator.com/showhn.html",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.g2.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.indieprojects.dev",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://dev.to/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://ctrlalt.cc/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://crozdesk.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.bufferapps.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://pitchwall.co/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "http://betalist.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.betabound.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://awesomeindie.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://appsumo.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.alternativeto.net/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "http://alternative.me/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.affordhunt.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://peerlist.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.insanelycooltools.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://devresourc.es/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://devhunt.org/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://10words.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://businesstoolvault.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.launchlister.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://make.rs/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://saassurf.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://yesramen.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.websitehunt.co/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://nocodefounders.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://indiepa.ge/discover",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://hackernoon.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startupcollections.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startuplister.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.bestaffiliateprograms.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://appsandwebsites.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://awesomemarketingwebsites.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://handpickedtools.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://buildinpublic.page/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.thestartupinc.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startup88.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://dynamicbusiness.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startuptracker.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startuproulette.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.saasgenius.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.makermove.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.findcool.tools/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startupeurope.net/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.eu-startups.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://sidebar.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.startupguys.net/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.spaceleads.pro/indie-founders-wall-of-fame",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startupstage.app/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://microlaunch.net/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://allonce.co/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://under1000mrr.tools/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://taalk.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startups.watch/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://land-book.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://indiemaker.space/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.indielogs.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://getmakerlog.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://wip.co/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://famewall.io/landing-tools-directory/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://postmake.io/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://feedbacktools.org/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://webdesignernews.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.curated.design/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.f6s.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.ebool.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://startupdope.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://list.ly/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://ecommerce-stack.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.wewaat.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://tools.landin.page/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://onepagelove.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.internetisbeautiful.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://primeindies.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://allhrsoftware.com/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://once.tools/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.toools.design/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://toolfinder.co/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://twelve.tools/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://listskit.com/directorystarters/",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.gartner.com/en/digital-markets/claim-profile",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "https://www.getbyte.tech/",
+        "status": "ok",
+        "notes": ""
     }
   ]
 }
