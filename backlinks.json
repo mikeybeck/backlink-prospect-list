@@ -2036,8 +2036,8 @@
     },
     {
         "url": "thestartuppitch.com",
-        "status": "ok",
-        "notes": ""
+        "status": "NOT FREE",
+        "notes": "NOT FREE"
     },
     {
         "url": "stackshare.io",
@@ -2566,6 +2566,11 @@
     },
     {
         "url": "getbyte.tech",
+        "status": "ok",
+        "notes": ""
+    },
+    {
+        "url": "buymeacoffee.com",
         "status": "ok",
         "notes": ""
     }
