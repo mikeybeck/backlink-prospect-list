@@ -2725,11 +2725,6 @@
             "notes": ""
         },
         {
-            "url": "10words.io",
-            "status": "ok",
-            "notes": ""
-        },
-        {
             "url": "saasified.co",
             "status": "ok",
             "notes": ""
@@ -2761,11 +2756,6 @@
         },
         {
             "url": "webdesign-inspiration.com",
-            "status": "ok",
-            "notes": ""
-        },
-        {
-            "url": "app.10words.io",
             "status": "ok",
             "notes": ""
         },
@@ -3173,6 +3163,11 @@
             "url": "feedough.com",
             "status": "ok",
             "notes": ""
+        },
+        {
+            "url": "toolpilot.ai",
+            "status": "ok",
+            "notes": "For AI based tools"
         }
     ]
 }
